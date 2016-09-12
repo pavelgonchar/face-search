@@ -25,3 +25,10 @@ Search by face:
 
 ![mr_bean](code/mr_bean.jpg?raw=true "mr_bean.jpg")
 ![result](code/result.jpg?raw=true "result.jpg")
+
+requirements:
+```
+sudo apt-get install imagemagick
+sudo pip install awscli
+sudo pip install click
+```
