@@ -32,7 +32,7 @@ def run(args):
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Options ')
-    parser.add_argument('--input', type=str, default='pavel.jpg')
+    parser.add_argument('--input', type=str, default='mr_bean.jpg')
     args = parser.parse_args()
     return args
 
