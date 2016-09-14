@@ -3,7 +3,7 @@ Face search engine
 
 Download demo dataset (Gary B. Huang, Manu Ramesh, Tamara Berg, and Erik Learned-Miller.
 Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments.
-University of Massachusetts, Amherst, Technical Report 07-49, October, 2007.)
+University of Massachusetts, Amherst, Technical Report 07-49, October, 2007.) or/and add your own images
 
 ```
 ./download_images.sh
