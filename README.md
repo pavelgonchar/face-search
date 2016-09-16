@@ -22,8 +22,11 @@ Search by face:
 # image output
 ./run.sh URL 1
 ```
-
+Query:
+-----
 ![mr_bean](code/mr_bean.jpg?raw=true "mr_bean.jpg")
+Results:
+-------
 ![result](code/result.jpg?raw=true "result.jpg")
 
 requirements:
